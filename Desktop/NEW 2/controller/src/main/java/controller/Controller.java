@@ -597,7 +597,7 @@ public class Controller implements IController, Observer {
                 tileMap[nextPos.x][nextPos.y] = monster;
             }
         }
-    }
+    } //d
 
     /**
      * @param direction
